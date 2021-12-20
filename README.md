@@ -1,6 +1,6 @@
 # 泡泡拍貼機 Photo Sticker!
 
-_A Photo Sticker Application created with Processing._
+[A Photo Sticker Application created with Processing.]
 
 ### Upload a picture and you can decorate the photo with bubbles and sticker!
 
