@@ -12,19 +12,19 @@ A Photo Sticker Application created with Processing.
 
 ---
 
-1. Paste Stickers!
+### 1. Paste Stickers!
 
-   ![image](https://j.gifs.com/Pjr50w.gif)
+![image](https://j.gifs.com/Pjr50w.gif)
 
-2. Choose the filter!
+### 2. Choose the filter!
 
-   ![image](https://j.gifs.com/464Yl1.gif)
+![image](https://j.gifs.com/464Yl1.gif)
 
-3. Draw Bubbles!
+### 3. Draw Bubbles!
 
-   ![image](https://j.gifs.com/ywMJZ7.gif)
+![image](https://j.gifs.com/ywMJZ7.gif)
 
-4. Then you can download your pretty work!
+### 4. Then you can download your pretty work!
 
 ---
 
