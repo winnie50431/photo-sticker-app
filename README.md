@@ -1,7 +1,5 @@
 # 泡泡拍貼機 Photo Sticker!
 
-A Photo Sticker Application created with Processing.
-
 ### Upload a picture and you can decorate the photo with bubbles and sticker!
 
 上傳圖片，就可以裝飾照片!
@@ -10,6 +8,7 @@ A Photo Sticker Application created with Processing.
 
 107-2 Digital Creative Programming Language 數位創作程式語言
 
+- A Photo Sticker Application created with Processing.
 - Group Assignments 小組作業
 - contribution of 2 members 成員 2 人
 
