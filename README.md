@@ -1,9 +1,12 @@
 # 泡泡拍貼機 Photo Sticker!
 
+_A Photo Sticker Application created with Processing._
+
 ### Upload a picture and you can decorate the photo with bubbles and sticker!
 
 上傳圖片，就可以裝飾照片!
-裝飾貼紙、選擇濾鏡、也可以隨機產生動態的泡泡!
+
+可以選擇貼紙、濾鏡，並點擊產生多彩的動態泡泡!
 
 ---
 
@@ -17,8 +20,6 @@
 ### [Demonstration video](https://youtu.be/fHP3JU6b5sY)
 
 ---
-
-_A Photo Sticker Application created with Processing._
 
 107-2 Digital Creative Programming Language 數位創作程式語言
 
