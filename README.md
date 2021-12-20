@@ -33,9 +33,7 @@ A Photo Sticker Application created with Processing.
 1. Draw bubble
 2. Paste sticker
 
-107-2 Digital Creative Programming Language
-
-數位創作程式語言
+107-2 Digital Creative Programming Language 數位創作程式語言
 
 - Group Assignments 小組作業
 - contribution of 2 members 成員 2 人
