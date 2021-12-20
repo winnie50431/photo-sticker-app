@@ -12,7 +12,18 @@ A Photo Sticker Application created with Processing.
 
 ---
 
-![image](https://j.gifs.com/ywMJZ7.gif)
+1. Paste Stickers!
+   ![image](https://j.gifs.com/Pjr50w.gif)
+
+2. Choose the filter!
+   ![image](https://j.gifs.com/464Yl1.gif)
+
+3. Draw Bubbles!
+   ![image](https://j.gifs.com/ywMJZ7.gif)
+
+4. Then you can download your pretty work!
+
+---
 
 ### Responsible for the following functions :
 
