@@ -8,7 +8,11 @@ A Photo Sticker Application created with Processing.
 
 可以選擇貼紙、濾鏡，並點擊產生多彩的動態泡泡!
 
+### [Demonstration video](https://youtu.be/fHP3JU6b5sY)
+
 ---
+
+![image](https://j.gifs.com/ywMJZ7.gif)
 
 ### Responsible for the following functions :
 
@@ -16,8 +20,6 @@ A Photo Sticker Application created with Processing.
 
 1. Draw bubble 開發繪製泡泡的功能
 2. Paste sticker 貼紙功能
-
-### [Demonstration video](https://youtu.be/fHP3JU6b5sY)
 
 ---
 
