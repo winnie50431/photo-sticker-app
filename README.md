@@ -3,6 +3,7 @@
 ### Upload a picture and you can decorate the photo with bubbles and sticker!
 
 上傳圖片，就可以裝飾照片!
+裝飾貼紙、選擇濾鏡、也可以隨機產生動態的泡泡!
 
 ### [Demonstration video](https://youtu.be/fHP3JU6b5sY)
 
