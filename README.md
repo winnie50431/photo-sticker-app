@@ -31,6 +31,6 @@ A Photo Sticker Application created with Processing.
 107-2 Digital Creative Programming Language 數位創作程式語言
 
 - Group Assignments 
-- contribution of 2 members with @a5925457
+- contribution of 2 members : (@winnie50431)[https://github.com/winnie50431](me) (@a5925457)[https://github.com/a5925457]
 
 ---
